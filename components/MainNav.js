@@ -53,7 +53,7 @@ const MainNav = () => {
     <>
       <Navbar bg="pink" variant="light" className="fixed-top p-3 navbar-brand-custom" expand="lg" expanded={isExpanded}>
         <div className="container">
-          <Navbar.Brand className="navbar-brand-custom">Yoojin</Navbar.Brand>
+          <Navbar.Brand className="navbar-brand-custom">Metropolitan</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={toggleNavbar} />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
